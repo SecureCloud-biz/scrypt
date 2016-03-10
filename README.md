@@ -98,6 +98,14 @@ int crypto_scrypt(const uint8_t *, size_t, const uint8_t *, size_t, uint64_t,
 ```
 
 
+Testing
+-------
+
+The compile can be tested with
+
+    make test
+
+
 Mailing list
 ------------
 
